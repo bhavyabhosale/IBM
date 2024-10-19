@@ -27,9 +27,6 @@ AgriAI is an innovative platform designed to empower farmers and agricultural en
 - \*\*pandas\_profiling:\*\* For generating data analysis reports.
 
 \## Installation
-1. Clone the repository:
-git clone https://github.com/yourusername/agriAI.git
-cd agriAI
 1. Install the required packages:
 pip install -r requirements.txt
 1. Place your pre-trained model and class indices JSON file in the project directory.
